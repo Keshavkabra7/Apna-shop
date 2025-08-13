@@ -44,7 +44,6 @@ npm start
 
 ### 4. Start the Frontend
 \`\`\`bash
-# In a new terminal
 cd frontend
 npm install
 npm start
