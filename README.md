@@ -23,7 +23,7 @@ My application includes:
 
 ### 1. Clone my repository
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Keshavkabra7/Apna-shop.git
 cd YOUR_REPO_NAME
 \`\`\`
 
