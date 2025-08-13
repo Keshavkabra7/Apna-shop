@@ -24,7 +24,7 @@ My application includes:
 ### 1. Clone my repository
 \`\`\`bash
 git clone https://github.com/Keshavkabra7/Apna-shop.git
-cd YOUR_REPO_NAME
+cd Apna-shop
 \`\`\`
 
 ### 2. Install & Configure MongoDB
